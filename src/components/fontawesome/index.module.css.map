@@ -1,0 +1,1 @@
+{"version":3,"sources":["index.module.scss","index.module.css"],"names":[],"mappings":"AAAA;EACI,oEAAA;ACCJ","file":"index.module.css","sourcesContent":[".fontawesome--root {\r\n    @apply flex flex-row place-content-center place-items-center w-8 h-8;\r\n}",".fontawesome--root {\n  @apply flex flex-row place-content-center place-items-center w-8 h-8;\n}"]}

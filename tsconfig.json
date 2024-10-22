@@ -1,0 +1,17 @@
+{
+	"compilerOptions": {
+		"target": "esnext",
+		"module": "esnext",
+		"moduleResolution": "node",
+		"experimentalDecorators": true,
+		"noImplicitAny": false,
+		"lib": ["dom", "dom.iterable", "esnext"],
+		"resolveJsonModule": true,
+		"strict": true,
+		"jsx": "preserve",
+		"jsxImportSource": "solid-js",
+		"isolatedModules": true,
+		"esModuleInterop": true,
+		"types": ["solid-js", "vite/client"]
+	}
+}
