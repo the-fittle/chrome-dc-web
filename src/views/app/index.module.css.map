@@ -1,0 +1,1 @@
+{"version":3,"sources":["index.module.scss","index.module.css"],"names":[],"mappings":"AAIA;EACI,qCAAA;ACHJ","file":"index.module.css","sourcesContent":[".frame--root {\r\n\r\n}\r\n\r\n.frame--root--selected {\r\n    @apply outline outline-4 outline-blue;\r\n}",".frame--root--selected {\n  @apply outline outline-4 outline-blue;\n}"]}
